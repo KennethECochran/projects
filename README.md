@@ -1,5 +1,5 @@
 # Projects
-<p>This repository features projects focused on analyzing the presence of Per- and polyfluoroalkyl substances in blood.</p>
+<p>This repository features Python based Data Analysis and Data Mining projects focused on analyzing the presence of Per- and polyfluoroalkyl substances in blood.</p>
 
 # <a href = 'https://github.com/KennethECochran/projects/tree/main/Environmental%20Health%20project%20-%20part%201'>Environmental Health project - part 1</a>
 <p>This project uses python to:</p>
